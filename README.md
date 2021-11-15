@@ -7,9 +7,9 @@ game design <br />
 games studies/ play studies<br /> 
 playtesting (Have a talk with people and get how was theyre fells about the game and then iterate/past the word to get closer to what we had on mind)<br /> 
 
-- 🌱 I’m currently learning Unity development (Working on some projects and following tutorials/ keep in tuch about what's new on the engine/ ...)
+- 🌱 I’m currently learning <br /> Unity development (Working on some projects and following tutorials/ keep in tuch about what's new on the engine/ ...)
 
-- 💞️ I’m looking to collaborate on VIDEOGAMES. And work with a team to share skills and fun
+- 💞️ I’m looking to collaborate on <br /> VIDEOGAMES. And work with a team to share skills and fun
 
 I'm ready to work ANYWHERE on Earth.
 I've a grade (+3 years after Highschool, more infos on CV ) 
