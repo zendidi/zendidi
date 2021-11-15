@@ -9,9 +9,9 @@ playtesting (Have a talk with people and get how was theyre fells about the game
 
 - 🌱 I’m currently learning <br /> Unity development (Working on some projects and following tutorials/ keep in tuch about what's new on the engine/ ...)
 
-- 💞️ I’m looking to collaborate on <br /> VIDEOGAMES. And work with a team to share skills and fun
+- 💞️ I’m looking to collaborate on <br /> <br /> VIDEOGAMES. And work with a team to share skills and fun
 
-I'm ready to work ANYWHERE on Earth.
+I'm ready to work ANYWHERE on Earth.<br /> 
 I've a grade (+3 years after Highschool, more infos on CV ) 
 
 - 📫 How to reach me 
