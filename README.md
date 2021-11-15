@@ -2,10 +2,10 @@
 
 - 👀 I’m interested in (area working skilled):
 
-Videogame developement
-game design 
-games studies/ play studies
-playtesting (Have a talk with people and get how was theyre fells about the game and then iterate/past the word to get closer to what we had on mind)
+Videogame developement<br /> 
+game design <br /> 
+games studies/ play studies<br /> 
+playtesting (Have a talk with people and get how was theyre fells about the game and then iterate/past the word to get closer to what we had on mind)<br /> 
 
 - 🌱 I’m currently learning Unity development (Working on some projects and following tutorials/ keep in tuch about what's new on the engine/ ...)
 
